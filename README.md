@@ -1,4 +1,10 @@
 # ✈️ Online Airline Reservation System (C Project)
+![C](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)
+![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+![Console](https://img.shields.io/badge/Type-Console%20Application-black?style=for-the-badge)
+![File Handling](https://img.shields.io/badge/Concept-File%20Handling-orange?style=for-the-badge)
+![Structures](https://img.shields.io/badge/Data%20Structure-Structs-yellow?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey?style=for-the-badge)
 
 ## 📌 Introduction
 The **Online Airline Reservation System** is a simple C-based application designed to streamline the process of booking airline tickets. It helps improve customer experience by enabling efficient reservation handling and reducing manual effort.
